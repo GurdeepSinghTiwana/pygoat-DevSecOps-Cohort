@@ -1,0 +1,7 @@
+[[IgnoredVulns]]
+id = "GHSA-cpwx-vrp4-4pq7"
+reason = "PyGoat is an intentionally vulnerable application used for security training"
+
+[[IgnoredVulns]]
+id = "PYSEC-2023-225"
+reason = "Known vulnerable dependency retained intentionally for educational purposes"
